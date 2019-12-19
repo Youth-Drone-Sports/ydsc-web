@@ -1,3 +1,3 @@
-# Youth Drone Sports Championship
+# Youth Drone Sports Championships
 #### STEM in Flight
 
