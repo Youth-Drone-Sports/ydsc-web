@@ -1,16 +1,14 @@
-# STEM Overview
+# Overview
 
-The Pitch
+# Electrical Engineering
 
-## Electrical Engineering
+# Software Engineering
 
-## Software Engineering
+# Mechanical Engineering
 
-## Mechanical Engineering
+# Industrial Design
 
-## Industrial Design
+# Mathematics
 
-## Mathematics
-
-## Physics
+# Physics
 
