@@ -1,7 +1,8 @@
 ## YOUR SCHOOL IS INVITED TO HELP PIONEER THE NEXT BIG **STEM SPORT** SENSATION {docsify-ignore}
 
+Following the success of our [first Minnesota State High School Drone Racing Tournament](http://www.startribune.com/game-of-drones-is-minnesota-high-school-tourney-first/510122532/?fbclid=IwAR1RCjHSdAxdIOHPQPGFUufWWdS4Na0LghAH8pYBsYGB5idJDeJPlpn73os&refresh=true#1) event in May 2019 which featured just two (2) teams, our new **Minnesota Youth Drone Sports Championships** for high schools and middle schools has rocketed to TWENTY (20) teams competing in our Spring 2020 season through May. Wanna join them this Fall?
 
-Following the success of our [first Minnesota State High School Drone Racing Tournament](http://www.startribune.com/game-of-drones-is-minnesota-high-school-tourney-first/510122532/?fbclid=IwAR1RCjHSdAxdIOHPQPGFUufWWdS4Na0LghAH8pYBsYGB5idJDeJPlpn73os&refresh=true#1) event in May 2019, we’re now adding schools to our new **Minnesota Youth Drone Sports Championships** for high schools and middle schools with competitions beginning in Jan 2020. 
+### [CREATE A TEAM](https://forms.gle/UYnpkJ7LX121gKb99) {docsify-ignore}
 
 (And don’t be alarmed! We race indoors with safe little 1-ounce [**"Tiny Whoop"**](https://www.airvuz.com/collection/tiny-whoops?id=BkF24fk8m) drones that fit in the palm of your hand and each student builds their own.)
 
